@@ -1,3 +1,4 @@
+document.write(`
 <html>
 
 <head>
@@ -239,3 +240,4 @@ fa-send" aria-hidden="true"></i> Send</button></span>
 </body>
 
 </html>
+`)
