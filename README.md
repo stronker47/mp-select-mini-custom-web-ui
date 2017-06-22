@@ -1,4 +1,5 @@
-## Disclaimer: This is a modification/fork of the factory installed UI; I do not claim ownership over the original factory installed UI. 
+## Disclaimer: This is a modification/fork of the factory installed UI; I do not claim ownership over the original factory installed UI; This software is provided AS-IS, I take no responsibility for any damages this 
+software may cause.
 
 ## Features:
 * Temperature readout, job progress bar, safe move menu.
